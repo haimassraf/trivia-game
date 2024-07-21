@@ -1,0 +1,264 @@
+{
+  "trivia_questions": [
+    {
+      "question": "Who won the FIFA World Cup in 2018?",
+      "answers": {
+        "1": "Germany",
+        "2": "Brazil",
+        "3": "France",
+        "4": "Argentina"
+      },
+      "correct_answer": "3"
+    },
+    {
+      "question": "Which player has won the most Ballon d'Or awards?",
+      "answers": {
+        "1": "Lionel Messi",
+        "2": "Cristiano Ronaldo",
+        "3": "Michel Platini",
+        "4": "Johan Cruyff"
+      },
+      "correct_answer": "1"
+    },
+    {
+      "question": "Which country hosted the 2014 FIFA World Cup?",
+      "answers": {
+        "1": "Russia",
+        "2": "Brazil",
+        "3": "South Africa",
+        "4": "Germany"
+      },
+      "correct_answer": "2"
+    },
+    {
+      "question": "Which club has won the most UEFA Champions League titles?",
+      "answers": {
+        "1": "Manchester United",
+        "2": "Bayern Munich",
+        "3": "AC Milan",
+        "4": "Real Madrid"
+      },
+      "correct_answer": "4"
+    },
+    {
+      "question": "Who is known as the 'King of Football'?",
+      "answers": {
+        "1": "Diego Maradona",
+        "2": "Pele",
+        "3": "Zinedine Zidane",
+        "4": "George Best"
+      },
+      "correct_answer": "2"
+    },
+    {
+      "question": "Who won the FIFA World Cup in 2010?",
+      "answers": {
+        "1": "Netherlands",
+        "2": "Spain",
+        "3": "Germany",
+        "4": "Italy"
+      },
+      "correct_answer": "2"
+    },
+    {
+      "question": "Which player scored the Hand of God goal?",
+      "answers": {
+        "1": "Pele",
+        "2": "Diego Maradona",
+        "3": "Zinedine Zidane",
+        "4": "David Beckham"
+      },
+      "correct_answer": "2"
+    },
+    {
+      "question": "Which club has the nickname 'The Red Devils'?",
+      "answers": {
+        "1": "Liverpool",
+        "2": "AC Milan",
+        "3": "Manchester United",
+        "4": "Bayern Munich"
+      },
+      "correct_answer": "3"
+    },
+    {
+      "question": "Which country won the first ever FIFA World Cup in 1930?",
+      "answers": {
+        "1": "Argentina",
+        "2": "Brazil",
+        "3": "Uruguay",
+        "4": "Italy"
+      },
+      "correct_answer": "3"
+    },
+    {
+      "question": "Which player holds the record for the most goals in a single FIFA World Cup?",
+      "answers": {
+        "1": "Miroslav Klose",
+        "2": "Ronaldo",
+        "3": "Just Fontaine",
+        "4": "Gerd Muller"
+      },
+      "correct_answer": "3"
+    },
+    {
+      "question": "Which club did David Beckham join after leaving Manchester United?",
+      "answers": {
+        "1": "Real Madrid",
+        "2": "AC Milan",
+        "3": "LA Galaxy",
+        "4": "Paris Saint-Germain"
+      },
+      "correct_answer": "1"
+    },
+    {
+      "question": "Who won the UEFA Champions League in 2019?",
+      "answers": {
+        "1": "Liverpool",
+        "2": "Tottenham Hotspur",
+        "3": "Real Madrid",
+        "4": "Bayern Munich"
+      },
+      "correct_answer": "1"
+    },
+    {
+      "question": "Which country won the Copa America in 2021?",
+      "answers": {
+        "1": "Argentina",
+        "2": "Brazil",
+        "3": "Chile",
+        "4": "Uruguay"
+      },
+      "correct_answer": "1"
+    },
+    {
+      "question": "Which player is known as 'El Fenomeno'?",
+      "answers": {
+        "1": "Ronaldinho",
+        "2": "Rivaldo",
+        "3": "Ronaldo",
+        "4": "Romario"
+      },
+      "correct_answer": "3"
+    },
+    {
+      "question": "Which club has won the most English Premier League titles?",
+      "answers": {
+        "1": "Chelsea",
+        "2": "Manchester City",
+        "3": "Arsenal",
+        "4": "Manchester United"
+      },
+      "correct_answer": "4"
+    },
+    {
+      "question": "Who won the FIFA Women's World Cup in 2019?",
+      "answers": {
+        "1": "England",
+        "2": "Germany",
+        "3": "USA",
+        "4": "Netherlands"
+      },
+      "correct_answer": "3"
+    },
+    {
+      "question": "Which player is known as 'The Egyptian King'?",
+      "answers": {
+        "1": "Mohamed Salah",
+        "2": "Ahmed Hegazi",
+        "3": "Trezeguet",
+        "4": "Mahmoud Hassan"
+      },
+      "correct_answer": "1"
+    },
+    {
+      "question": "Which club is known as 'The Old Lady'?",
+      "answers": {
+        "1": "Juventus",
+        "2": "AC Milan",
+        "3": "Inter Milan",
+        "4": "Napoli"
+      },
+      "correct_answer": "1"
+    },
+    {
+      "question": "Who won the Golden Boot at the 2018 FIFA World Cup?",
+      "answers": {
+        "1": "Harry Kane",
+        "2": "Cristiano Ronaldo",
+        "3": "Kylian Mbappe",
+        "4": "Luka Modric"
+      },
+      "correct_answer": "1"
+    },
+    {
+      "question": "Which country has won the most FIFA World Cups?",
+      "answers": {
+        "1": "Germany",
+        "2": "Italy",
+        "3": "Argentina",
+        "4": "Brazil"
+      },
+      "correct_answer": "4"
+    },
+    {
+      "question": "Who scored the fastest goal in FIFA World Cup history?",
+      "answers": {
+        "1": "Pele",
+        "2": "Hakan Sukur",
+        "3": "Diego Maradona",
+        "4": "Lionel Messi"
+      },
+      "correct_answer": "2"
+    },
+    {
+      "question": "Which player is known as 'The Atomic Flea'?",
+      "answers": {
+        "1": "Lionel Messi",
+        "2": "Cristiano Ronaldo",
+        "3": "Luis Suarez",
+        "4": "Neymar"
+      },
+      "correct_answer": "1"
+    },
+    {
+      "question": "Which country won the UEFA Euro 2016?",
+      "answers": {
+        "1": "France",
+        "2": "Portugal",
+        "3": "Germany",
+        "4": "Spain"
+      },
+      "correct_answer": "2"
+    },
+    {
+      "question": "Which club is known as 'The Blues'?",
+      "answers": {
+        "1": "Chelsea",
+        "2": "Manchester City",
+        "3": "Leicester City",
+        "4": "Everton"
+      },
+      "correct_answer": "1"
+    },
+    {
+      "question": "Who won the FIFA World Cup in 2006?",
+      "answers": {
+        "1": "France",
+        "2": "Italy",
+        "3": "Brazil",
+        "4": "Germany"
+      },
+      "correct_answer": "2"
+    },
+    {
+      "question": "Which player is known as 'The Black Panther'?",
+      "answers": {
+        "1": "Eusebio",
+        "2": "George Weah",
+        "3": "Didier Drogba",
+        "4": "Samuel Eto'o"
+      },
+      "correct_answer": "1"
+    }
+  ]
+}
